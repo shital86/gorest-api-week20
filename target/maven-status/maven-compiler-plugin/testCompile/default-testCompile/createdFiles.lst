@@ -1,0 +1,5 @@
+in\co\gorset\cucumber\GorsetCucumberRunner.class
+in\co\gorset\testbase\TestBase.class
+in\co\gorset\cucumber\step\MyStepdefs.class
+in\co\gorset\userinfo\GorestCURDTestWithSteps.class
+in\co\gorset\userinfo\FirstSerenity.class
